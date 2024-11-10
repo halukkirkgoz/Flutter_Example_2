@@ -8,17 +8,7 @@ This project demonstrates a simple login page built using **Flutter**. It featur
 - **Dark Theme**: The app uses a dark background with teal accents to create a modern and elegant look.
 - **Customizable UI**: The user interface is styled with rounded buttons and custom input fields to improve user experience.
 
-## Project Structure:
-This project follows a simple structure that is commonly used in Flutter applications. Below is an overview of the directory and file organization:
-
-├── assets/
-│   └── images/
-│       └── girl.jpeg          # Background image used in the login screen
-├── lib/
-│   └── main.dart              # Main entry point for the app
-└── pubspec.yaml               # Flutter project configuration file
-
-### Files and Their Purpose:
+## Files and Their Purpose:
 
 - **assets/images/girl.jpeg**  
   This image is used as a background in the login page, with a dark overlay applied for better contrast and readability.
